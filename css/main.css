@@ -5,7 +5,7 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 1px;
     list-style: none;
     font-weight: bold;
 }
@@ -26,20 +26,34 @@ h1 {
 }
 h2 {
     font-size: 1.5em;
-    line-height: 2em;
+    line-height: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
-    text-indent: 50px
+    font-family:'Helvetica', 'Arial', 'Sans-Serif'
 }
 p1{
-  font-size: 1em;
-  line-height: 1em;
-  color: #333;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif'
+    font-size: 1em;
+    line-height: 1em;
+    color: #333;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif'
+}
+p2{
+    font-size: 1em;
+    line-height: 1em;
+    font-weight: bold;
+    color: #333;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif'
+}
+p3{
+    font-style: italic;
+    font-size: 1em;
+    line-height: 1em;
+    color: #333;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif'
 }
 footer {
     border-top: 1px solid #d5d5d5;
